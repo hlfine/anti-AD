@@ -14,7 +14,6 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||at*.doubanio.com^
 ||ax.*.ifeng.com^
-||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
 ||bj*.9669.cn^
@@ -22,7 +21,6 @@
 ||d*.ruiwen.com^
 ||d*.wanzhuang.com^
 ||d*.xinshipu.com^
-||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
@@ -37,7 +35,6 @@
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||itc.*^prod=ad&
-||iwanshang*.asia^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
 ||ky891.oss-*.aliyuncs.com^
@@ -62,7 +59,6 @@
 ||tracker*.qcloud.com^
 ||tracking*.euroads.fi^$third-party
 ||tupian888.*.bcebos.com^
-||txhfgwgkwt*.asia^
 ||uc*.atobo.com^
 ||um*.com^$third-party
 ||union*.365inews.com^
