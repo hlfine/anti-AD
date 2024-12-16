@@ -298,6 +298,7 @@
 ||events.redditmedia.com^
 ||fclog.baidu.com^
 ||feed-image.baidu.com^
+||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
 ||frontend-perf-service.e.kuaishou.com^
@@ -713,7 +714,6 @@
 ||widgets.outbrain.com^
 ||widgets.pinterest.com^
 ||win.gdt.qq.com^
-||wl.jd.com^
 ||wn.x.jd.com^
 ||ws-keyboard.shouji.sogou.com^
 ||ws.sj.qq.com^
